@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Evans Chaun
+-    Evans Chaun
 - 👀 I’m a Full-stack Software development
 - 🌱 I’m currently learning BCs. In Computer Science
 - 💞️ I’m looking to collaborate on ...
