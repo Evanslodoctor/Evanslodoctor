@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Tanveer;A+passionate+MERN+Stack+and+Web3+Developer;Open+Source+Contributor;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Evans+Chaun;I+am+dedicated,+hardworking,+always+striving+for+excellence;Open+Source+Contributor;I+have+a+deep+passion+for+what+I+do+and...;approach+every+task+with+enthusiasm;I+can+be+trusted+to+consistently+deliver+high-quality+results;I+quickly+adapt+to+new+environments+and+technologies,+embracing+change+with+ease;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over." />
 </p>
 <p align="left">
   <a href="https://twitter.com/evanslodoctor" target="_blank"><img src="https://img.shields.io/twitter/follow/evanslodoctor?logo=twitter&style=for-the-badge" alt="" /></a>
@@ -17,9 +17,30 @@
 <p align="left">
   <a href="https://twitter.com/johndoe" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
-<h3 style="margin-top: 4px;">I LOVE CODING!</h3>
+<div> <div>
+<h3 style="margin-top: 4px;">Skills:</h3>
+<ul style="background-color: green;">
+<li>Programming Languages: JavaScript (ES6+), Python, Ruby, PHP, Java, C#</li>
+<li> Front-end Development: HTML5, CSS3, JavaScript Frameworks (React.js, Angular, Vue.js)</li>
+<li>Back-end Development: Node.js, Express.js, Django, Ruby on Rails, Laravel, Spring Boot, ASP.NET Core</li>
+<li>Databases: MongoDB, MySQL, PostgreSQL, Oracle, SQLite, Redis, Elasticsearch</li>
+<li>Version Control: Git, GitHub, GitLab, Bitbucket</li>
+<li>Cloud Technologies: AWS, Azure, Google Cloud Platform</li>
+<li>Deployment and DevOps: Docker, Kubernetes, Serverless Architecture, CI/CD</li>
+<li>Testing: Unit Testing, Integration Testing, Test-Driven Development (TDD), Automated Testing</li>
+<li>Security and Authentication: Web Application Security, OAuth, JWT</li>
+<li>Front-end Tools and Libraries: Webpack, Babel, SASS/LESS, Redux</li>
+<li>Agile Development: Scrum, Kanban</li>
+<li>Problem-solving and Analytical Skills</li>
+<li>Strong Communication and Collaboration Abilities</li>
+</ul>
 
-
+  </div>
+  <div>
+    
+  </div>
+  
+  </div>
 <br>
 <br>
 <hr>
