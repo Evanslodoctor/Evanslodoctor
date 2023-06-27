@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Follow%20on%20Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow on Facebook">
   </a>
 </p>
-<img align="right" alt="Coding" width="400" style="border-radius:20px;" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+
  
 </p>
 <p align="center">
@@ -59,7 +59,7 @@
 <a href="https://www.instagram.com/evanslodoctor" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="max-width:100%;">
   </a>
-  <a href="https://www.facebook.com/evanslodoctor" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/evans.chaun.9/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="max-width:100%;">
   </a>
 </p>
