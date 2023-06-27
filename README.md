@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Evans+Chaun;I+am+dedicated,+hardworking,+always+striving+for+excellence;Open+Source+Contributor;I+have+a+deep+passion+for+what+I+do+and...;approach+every+task+with+enthusiasm;I+can+be+trusted+to+consistently+deliver+high-quality+results;I+quickly+adapt+to+new+environments+and+technologies,+embracing+change+with+ease;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Evans+Chaun;I+am+dedicated,+hardworking,+always+striving+for+excellence;Full+Stack+Developer;I+have+a+deep+passion+for+what+I+do+and...;...approach+every+task+with+enthusiasm;I+can+be+trusted+to+consistently+deliver+high-quality+results;I+quickly+adapt+to+new+environments+and...;...technologies,+embracing+change+with+ease;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over." />
 </p>
 <p align="left">
   <a href="https://twitter.com/evanslodoctor" target="_blank"><img src="https://img.shields.io/twitter/follow/evanslodoctor?logo=twitter&style=for-the-badge" alt="" /></a>
@@ -17,9 +17,9 @@
 <p align="left">
   <a href="https://twitter.com/johndoe" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
-<div> <div>
+
 <h3 style="margin-top: 4px;">Skills:</h3>
-<ul style="background-color: green;">
+<ul>
 <li>Programming Languages: JavaScript (ES6+), Python, Ruby, PHP, Java, C#</li>
 <li> Front-end Development: HTML5, CSS3, JavaScript Frameworks (React.js, Angular, Vue.js)</li>
 <li>Back-end Development: Node.js, Express.js, Django, Ruby on Rails, Laravel, Spring Boot, ASP.NET Core</li>
@@ -35,12 +35,7 @@
 <li>Strong Communication and Collaboration Abilities</li>
 </ul>
 
-  </div>
-  <div>
-    
-  </div>
   
-  </div>
 <br>
 <br>
 <hr>
