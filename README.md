@@ -15,7 +15,21 @@
 <img align="right" alt="Coding" width="400" style="border-radius:20px;" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
 <p align="left">
-  <a href="https://twitter.com/johndoe" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
+  <a href="https://twitter.com/johndoe" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" ></a>
+<a href="https://www.instagram.com/evanslodoctor" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Follow%20on%20Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow@evanslodoctor">
+  </a>
+  <a href="https://www.facebook.com/your_facebook_username/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Follow%20on%20Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow on Facebook">
+  </a>
+
+  
+  <a href="https://www.instagram.com/evanslodoctor" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="max-width:100%;">
+  </a>
+  <a href="https://www.facebook.com/your_facebook_username/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="max-width:100%;">
+  </a>
 </p>
 
 <h3 style="margin-top: 4px;">Skills:</h3>
@@ -44,4 +58,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lodoctor/" target="_blank" rel="noopener noreferrer">
     <img src="https://camo.githubusercontent.com/0ff78512f45d498526f436fb6bb7c8cc39c7a2a8a3eef8b13df9553c34b3b5e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3461393065322f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png" style="max-width:100%;"></a>
+
+<a href="https://www.instagram.com/evanslodoctor" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Follow%20on%20Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram">
+  </a>
+ 
+  <a href="https://www.facebook.com/evans.chaun.9/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="max-width:100%;">
+  </a>
 </p>
