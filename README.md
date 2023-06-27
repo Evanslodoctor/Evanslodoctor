@@ -20,8 +20,6 @@
   </a>
 </p>
 
- 
-</p>
 <p align="center">
   <a href="https://papaya-dusk-3a2b05.netlify.app/" target="_blank" rel="noopener noreferrer" style="background-color: blue; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
     View My Portfolio
