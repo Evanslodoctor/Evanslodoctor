@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/evanslodoctor" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Follow%20on%20Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow@evanslodoctor">
   </a>
-  <a href="https://www.facebook.com/evanslodoctor/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/evans.chaun.9/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Follow%20on%20Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow on Facebook">
   </a>
 </p>
@@ -59,7 +59,7 @@
 <a href="https://www.instagram.com/evanslodoctor" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="max-width:100%;">
   </a>
-  <a href="https://www.facebook.com/evanslodoctor/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/evanslodoctor" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="max-width:100%;">
   </a>
 </p>
