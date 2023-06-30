@@ -1,11 +1,13 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Evanslodoctor&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-24" />
 </p>
-### Click the image or link below to view my portfolio
+
+<h1 align="center"> Click the image below to view my portfolio</h1>
+                    <H1 align="center"> View My Portfolio👇👇👇👇👇👇👇👇</H1>
 <p align="center">
  
    <a href="https://papaya-dusk-3a2b05.netlify.app/" target="_blank" rel="noopener noreferrer" style="background-color: blue; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
-      View My Portfolio
+    View My Portfolio
       <img height="150px" src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif" />
    
   </a>
@@ -18,10 +20,10 @@
   <a href="https://twitter.com/evanslodoctor" target="_blank"><img src="https://img.shields.io/twitter/follow/evanslodoctor?logo=twitter&style=for-the-badge" alt="" /></a>
     <a href="https://twitter.com/johndoe" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" ></a>
 <a href="https://www.instagram.com/evanslodoctor" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Follow%20on%20Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow@evanslodoctor">
+    <img src="https://img.shields.io/badge/Follow%20@%20evanslodoctor-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow@evanslodoctor">
   </a>
   <a href="https://www.facebook.com/evans.chaun.9/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Follow%20on%20Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow on Facebook">
+    <img src="https://img.shields.io/badge/Follow%20@%20evanslodoctor-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow@evans.chaun">
   </a>
 </p>
 
