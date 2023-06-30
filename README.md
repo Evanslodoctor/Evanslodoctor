@@ -1,9 +1,14 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Evanslodoctor&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-24" />
 </p>
-
+### Click the image or link below to view my portfolio
 <p align="center">
-  <img height="150px" src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif" />
+ 
+   <a href="https://papaya-dusk-3a2b05.netlify.app/" target="_blank" rel="noopener noreferrer" style="background-color: blue; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
+      View My Portfolio
+      <img height="150px" src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif" />
+   
+  </a>
 </p>
 
 <p align="center">
@@ -20,11 +25,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://papaya-dusk-3a2b05.netlify.app/" target="_blank" rel="noopener noreferrer" style="background-color: blue; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
-    View My Portfolio
-  </a>
-</p>
 
 
 <h3 style="margin-top: 4px;">Skills:</h3>
