@@ -29,24 +29,57 @@
 
 
 
-<h3 style="margin-top: 4px;">Skills:</h3>
-<ul>
-<li>Programming Languages: JavaScript (ES6+), Python, Ruby, PHP, Java, C#</li>
-<li> Front-end Development: HTML5, CSS3, JavaScript Frameworks (React.js, Angular, Vue.js)</li>
-<li>Back-end Development: Node.js, Express.js, Django, Ruby on Rails, Laravel, Spring Boot, ASP.NET Core</li>
-<li>Databases: MongoDB, MySQL, PostgreSQL, Oracle, SQLite, Redis, Elasticsearch</li>
-<li>Version Control: Git, GitHub, GitLab, Bitbucket</li>
-<li>Cloud Technologies: AWS, Azure, Google Cloud Platform</li>
-<li>Deployment and DevOps: Docker, Kubernetes, Serverless Architecture, CI/CD</li>
-<li>Testing: Unit Testing, Integration Testing, Test-Driven Development (TDD), Automated Testing</li>
-<li>Security and Authentication: Web Application Security, OAuth, JWT</li>
-<li>Front-end Tools and Libraries: Webpack, Babel, SASS/LESS, Redux</li>
-<li>Agile Development: Scrum, Kanban</li>
-<li>Problem-solving and Analytical Skills</li>
-<li>Strong Communication and Collaboration Abilities</li>
-</ul>
+# Skills
 
-  
+| **Programming Languages**                | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Front-end Development**               | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Back-end Development**                 |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| JavaScript (ES6+)                        | &nbsp;                                   | HTML5                                    | &nbsp;                                   | Node.js                                  |
+| Python                                   | &nbsp;                                   | CSS3                                     | &nbsp;                                   | Express.js                               |
+| Ruby                                     | &nbsp;                                   | JavaScript Frameworks (React.js, Angular, Vue.js) | &nbsp;                          | Django                                   |
+| PHP                                      | &nbsp;                                   |                                          | &nbsp;                                   | Ruby on Rails                            |
+| Java                                     | &nbsp;                                   |                                          | &nbsp;                                   | Laravel                                  |
+| C#                                       | &nbsp;                                   |                                          | &nbsp;                                   | Spring Boot                              |
+
+| **Databases**                            | **Version Control**                     | **Cloud Technologies**                  | **Deployment and DevOps**                | **Testing**                              |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| MongoDB                                  | Git                                      | AWS                                      | Docker                                   | Unit Testing                             |
+| MySQL                                    | GitHub                                   | Azure                                    | Kubernetes                               | Integration Testing                      |
+| PostgreSQL                               | GitLab                                   | Google Cloud Platform                    | Serverless Architecture                  | Test-Driven Development (TDD)             |
+| Oracle                                   | Bitbucket                               |                                          | CI/CD                                    | Automated Testing                         |
+| SQLite                                   |                                          |                                          |                                          |                                      |
+| Redis                                    |                                          |                                          |                                          |                                      |
+| Elasticsearch                            |                                          |                                          |                                          |                                      |
+
+| **Security and Authentication**         | **Front-end Tools and Libraries**        | **Other Skills**                         |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| Web Application Security               | Webpack                                  | Algorithm Design                         |
+| OAuth                                  | Babel                                    | Data Structures                          |
+| JWT                                    | SASS/LESS                                | Object-Oriented Design (OOD)             |
+|                                        | Redux                                    | Software Development Life Cycle (SDLC)   |
+
+# My Projects
+
+| **Project Name**                         | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Description**                           |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| [LearningPython (Alison Python Course)](https://github.com/Evanslodoctor/LearningPython)           | &nbsp;                                   | Currently engaged in learning Python through the Alison Python course. Exploring the fundamentals and advanced concepts of Python programming to enhance coding skills and understanding.                 |
+| [Python_Tutorial_ChaunCodeHub](https://github.com/Evanslodoctor/Python_Tutorial_ChaunCodeHub)           | &nbsp;                                   | Actively working on the "Python Tutorial" series for ChaunCodeHub, a YouTube channel. This project involves creating educational content to teach Python programming concepts to the audience. The goal is to make learning Python accessible and enjoyable.                 |
+| [CHTC (Capital Highway Training College) Website](https://github.com/Evanslodoctor/CHTC)           | &nbsp;                                   | Contributing to the development of the Capital Highway Training College website (CHTC). Involved in designing, implementing, and maintaining features for the website. Collaborating with the team to enhance the user experience and ensure the website meets its objectives.                 |
+| [alx-higher_level_programming](https://github.com/Evanslodoctor/alx-higher_level_programming)           | &nbsp;                                   | Engaged in the ALX Software Engineering course, specifically focusing on higher-level programming. Working on various projects to develop proficiency in software engineering concepts and practices. This includes hands-on coding, problem-solving, and collaborating with peers to deepen knowledge and skills.                 |
+| ... (add more projects as needed)        | &nbsp;                                   | ... (add descriptions accordingly)       |
+
+# Soft Skills
+
+- Communication
+- Teamwork
+- Adaptability
+- Critical Thinking
+- Time Management
+
+
+
+<!-- Add more projects as needed -->
+
+
 <br>
 <br>
 <hr>
