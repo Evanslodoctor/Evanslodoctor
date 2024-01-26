@@ -1,31 +1,31 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Evanslodoctor&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-24" />
+  <img src="https://komarev.com/ghpvc/?username=Evanslodoctor&label=Profile%20views&color=0e75b6&style=flat" alt="Evanslodoctor" />
 </p>
 
 <h1 align="center"> Click the image below to view my portfolio</h1>
-                    <H1 align="center"> View My Portfolio👇👇👇👇👇👇👇👇</H1>
+<h1 align="center"> View My Portfolio👇👇👇👇👇👇👇👇</h1>
+
 <p align="center">
- 
-   <a href="https://papaya-dusk-3a2b05.netlify.app/" target="_blank" rel="noopener noreferrer" style="background-color: blue; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
+  <a href="https://papaya-dusk-3a2b05.netlify.app/" target="_blank" rel="noopener noreferrer" style="background-color: blue; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
     View My Portfolio
-      <img height="150px" src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif" />
-   
+    <img height="150px" src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Evans+Chaun;I+am+dedicated,+hardworking,+always+striving+for+excellence;Full+Stack+Developer;I+have+a+deep+passion+for+what+I+do+and...;...approach+every+task+with+enthusiasm;I+can+be+trusted+to+consistently+deliver+high-quality+results;I+quickly+adapt+to+new+environments+and...;...technologies,+embracing+change+with+ease;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over." />
 </p>
+
 <p align="left">
-  <a href="https://twitter.com/evanslodoctor" target="_blank"><img src="https://img.shields.io/twitter/follow/evanslodoctor?logo=twitter&style=for-the-badge" alt="" /></a>
-    <a href="https://twitter.com/johndoe" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" ></a>
-<a href="https://www.instagram.com/evanslodoctor" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Follow%20@%20evanslodoctor-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow@evanslodoctor">
+  <a href="https://twitter.com/evanslodoctor" target="_blank"><img src="https://img.shields.io/twitter/follow/evanslodoctor?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
+  <a href="https://www.instagram.com/evanslodoctor" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Follow%20@%20evanslodoctor-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Follow">
   </a>
   <a href="https://www.facebook.com/evans.chaun.9/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Follow%20@%20evanslodoctor-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow@evans.chaun">
+    <img src="https://img.shields.io/badge/Follow%20@%20evanslodoctor-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Follow">
   </a>
 </p>
+
 
 
 
