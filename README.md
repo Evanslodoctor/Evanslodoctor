@@ -6,9 +6,9 @@
 <h1 align="center"> View My Portfolio👇👇👇👇👇👇👇👇</h1>
 
 <p align="center">
-  <a href="https://papaya-dusk-3a2b05.netlify.app/" target="_blank" rel="noopener noreferrer" style="background-color: blue; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
+  <a href="https://dev-prodevevans.pantheonsite.io/" target="_blank" rel="noopener noreferrer" style="background-color: blue; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
     View My Portfolio
-    <img height="150px" src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif" />
+    <img height="150px" src="https://dev-prodevevans.pantheonsite.io/wp-content/uploads/2024/02/IMG_20240117_174808_055-removebg-preview-1.png" />
   </a>
 </p>
 
