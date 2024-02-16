@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Evanslodoctor&label=Profile%20views&color=0e75b6&style=flat" alt="Evanslodoctor" />
 </p>
 
-<h1 align="center"> Click the image below to view my portfolio</h1>
+
 <h1 align="center"> View My Portfolio👇👇👇👇👇👇👇👇</h1>
 
 <p align="center">
